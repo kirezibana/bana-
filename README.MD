@@ -1,8 +1,8 @@
-# Akan Project
-#### 15/08/2019
-#### By **Arthur Ochieng**
+# bana- Week 2: Independent Project
+#### 26/09/2020
+#### By **Kirezi Bana Hortense**
 ## Description
-This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
+This is for a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 ## Behaviour Driven Development(BDD)
 |Behaviour| Input| Output|
 |:--------|:-----|:------|
@@ -26,5 +26,5 @@ And as a result the user will be able to:
 * Javascript - For document object manipulation
 * Bootstrap - For styling the interface
 ## Support and contact details
-You can get to me through johnarthur016@gmail.com.
+email:hortensekz@gmail.com.
 ### License.
