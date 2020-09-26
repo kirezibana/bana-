@@ -1,7 +1,7 @@
 # bana- Week 2: Independent Project
 #### 26/09/2020
-#### By **Kirezi Bana Hortense**
-#### from Moringa School
+#### Name: **Kirezi Bana Hortense**
+#### school: Moringa School
 ## Description
 This is for a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 ## Behaviour Driven Development(BDD)
