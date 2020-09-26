@@ -1,12 +1,13 @@
 # bana- Week 2: Independent Project
 #### 26/09/2020
 #### By **Kirezi Bana Hortense**
+#### from Moringa School
 ## Description
 This is for a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 ## Behaviour Driven Development(BDD)
 |Behaviour| Input| Output|
 |:--------|:-----|:------|
-|Dialog box opens| User enters required credentials| Akan name displayed|
+|Dialog box opens| the user will enter the required credentials| Akan name displayed|
 ## Setup/Installation Requirements
 * Create an account on Github
 * Fork the repository from Github:[https://github.com/kirezibana/bana-.git](https://github.com/kirezibana/bana-.git)
@@ -28,3 +29,4 @@ And as a result the user will be able to:
 ## Support and contact details
 email:hortensekz@gmail.com.
 ### License.
+MIT LICENCE
